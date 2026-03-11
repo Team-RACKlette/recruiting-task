@@ -2,6 +2,9 @@
 
 Welcome to Team RACKlette's recruiting challenge!
 
+At the end of this challenge, you can retrieve the link for signing up an interview 
+with us from the puzzle. Have fun :)
+
 We are a student HPC team at ETH Zurich working on high-performance
 computing, parallel programming, and system optimization. This small
 task gives you a first taste of the concepts we work with -- and helps
@@ -48,8 +51,8 @@ In your terminal, navigate to a folder where you want to keep the task
 
 ```
 cd ~
-git clone <repo-url>
-cd <repo-name>
+git clone https://github.com/Team-RACKlette/recruiting-task.git
+cd recruiting-task
 ```
 
 You are now inside the project folder. All subsequent commands should
